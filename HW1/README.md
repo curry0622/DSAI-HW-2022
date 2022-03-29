@@ -126,6 +126,6 @@ test_loss 約收斂於 0.0237。
 
 以下為 2022/03/30 ~ 2022/04/13 的預測結果及圖表
 
-![pred_data](images/pred_data.png)
+![pred_data](images/pred_data.PNG)
 
 ![pred_plot](images/prediction.png)
