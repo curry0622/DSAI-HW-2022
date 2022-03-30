@@ -9,7 +9,7 @@
 
 以下是 2021/01/01 到 2022/03/29 的數據圖，呈現備轉容量的趨勢。
 
-![data explore](images/data_plot.PNG)
+![data explore](images/data_plot.png)
 
 以下使用 scikit-learn 中的 MinMaxScaler 來標準化數據集，範圍在 0 到 1 之間。
 
