@@ -1,4 +1,4 @@
-# DSAI-HW3-2021
+# HW3-Report
 
 ### Source
 
@@ -20,8 +20,8 @@
    ┃     ┣━ bill-{mid}.csv
    ┃     ┗━ bidresult-{mid}.csv
    ┗━ training_data/
-      ┗━ target{household}.csv  
-      
+      ┗━ target{household}.csv
+
 ```
 
 1. `mid` 為每次媒合編號
